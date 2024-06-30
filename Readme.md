@@ -34,14 +34,14 @@ git clone https://github.com/Aishwarya2701/Budget-Tracker-App-.git
 cd Budget-Tracker-App
 ```
 Install Dependencies:
-npm i
-npx expo install expo-sqlite
-npx expo install expo-file-system expo-asset
-yarn add @react-navigation/native
-yarn add @react-navigation/native-stack
-yarn add @react-native-segmented-control/segmented-control
-npx expo install react-native-screens react-native-safe-area-context
-yarn add react-native-auto-size-text
+1) npm i
+2) npx expo install expo-sqlite
+3) npx expo install expo-file-system expo-asset
+4) yarn add @react-navigation/native
+5) yarn add @react-navigation/native-stack
+6) yarn add @react-native-segmented-control/segmented-control
+7) npx expo install react-native-screens react-native-safe-area-context
+8) yarn add react-native-auto-size-text
 
 ## Contributing
 
