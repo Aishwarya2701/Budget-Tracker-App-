@@ -31,7 +31,7 @@ To get started with this project, clone the repository and install the required 
 
 ```bash
 git clone https://github.com/Aishwarya2701/Budget-Tracker-App-.git
-cd Budget-Tracker-App
+cd Budget-Tracker-App-
 ```
 Install Dependencies:
 1) npm i
